@@ -1,4 +1,2 @@
 # GDP
 graduation project
-
-...
